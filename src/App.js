@@ -1,7 +1,8 @@
 import React from 'react'
+import SoundBoard from './components/SoundBoard'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <SoundBoard />
 }
 
 export default App
